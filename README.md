@@ -6,6 +6,12 @@
 
 Presume you want to create a text editor web application
 
+## Mock-Up
+
+The following gif shows the the web application's appearance and functionality:
+
+![Alt text](https://github.com/iis4u2nv/jate-text-19/blob/main/Assets/00-demo.gif)
+
 
 ## Heroku Deployment
 
