@@ -17,6 +17,8 @@ The following gif shows the the web application's appearance and functionality:
 
 Depployed App: https://powerful-brushlands-61981-a88f7cb4f808.herokuapp.com/
 
+- GitHub: [iis4u2nv](https://github.com/iis4u2nv/jate-text-19)
+
 ## License
 
 This challenge is licensed under the MIT License.
