@@ -15,6 +15,8 @@ The following gif shows the the web application's appearance and functionality:
 
 ## Heroku Deployment
 
+Depployed App: https://powerful-brushlands-61981-a88f7cb4f808.herokuapp.com/
+
 ## License
 
 This challenge is licensed under the MIT License.
